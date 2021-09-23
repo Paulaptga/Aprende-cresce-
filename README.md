@@ -1,2 +1,2 @@
-#  https://github.com/Paulaptga/Aprende-cresce-.git
+#   https://paulaptga.github.io/Aprende-cresce-/
 Projeto Educacional
